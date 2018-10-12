@@ -1,1 +1,23 @@
 _sass/.sass-cache/
+
+# Ignore paths that contain user-generated content.
+dist/
+bower_components
+node_modules/
+source/.DS_Store
+.DS_Store
+.sass-cache/*
+/sass-cache
+Thumbs.db
+.idea/
+*.lock
+npm-debug.log
+
+*.suo
+.vs
+bin
+obj
+.sass-cache
+packages
+
+
